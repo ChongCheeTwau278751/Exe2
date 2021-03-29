@@ -1,22 +1,27 @@
-package Motorcycle;
+package Bird;
 
 public class Class1 {
 
-	String type = "Yamaha SR400";
-	String color = "Black";
-	String classification = "Standard";
-	String engineCapacity = "399cc";
+	String breed = "Mealy Amazon";
+	String color = "Green";
+	String size = "Big";
+	String classification = "Parrots";
 	
-	void travel() {
-		System.out.println("We can travelling around by riding motorcycle!");
+	void eat() {
+		System.out.println("Bird is eating!");
 	}
-	void ride() {
-		System.out.println("It is cool to ride a motorcycle!");
+	void sleep() {
+		System.out.println("Bird is sleeping!");
 	}
-	void brake() {
-		System.out.println("Do not forget to brake if you are riding too fast!");
+	void fly() {
+		System.out.println("Bird is flying!");
 	}
-	void fetch() {
-		System.out.println("We can fetch our loved ones by riding motorcycle!");
+	void climb() {
+		System.out.println("Bird is climbing!");
 	}
-}
+	void play() {
+		System.out.println("Bird is playing!");
+	}
+	}
+
+
