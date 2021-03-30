@@ -8,15 +8,15 @@ public class Motorcycle {
 	String engineCapacity = "399cc";
 	
 	void travel() {
-		System.out.println("We can travelling around by riding motorcycle!");
+		System.out.println("You are travelling around with motorcycle!");
 	}
 	void ride() {
-		System.out.println("It is cool to ride a motorcycle!");
+		System.out.println("You are riding a motorcycle!");
 	}
 	void brake() {
-		System.out.println("Do not forget to brake if you are riding too fast!");
+		System.out.println("You are braking your motorcycle!");
 	}
 	void fetch() {
-		System.out.println("We can fetch our loved ones by riding motorcycle!");
+		System.out.println("You are fetching someone with your motorcycle!");
 	}
 }
